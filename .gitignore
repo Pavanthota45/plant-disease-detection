@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+
+# Dataset
+dataset/
+dataset_small/
+
+# Model
+*.h5
+*.keras
+
+# Uploads
+uploads/
+
+# Mac files
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# MySQL secrets
+.env
